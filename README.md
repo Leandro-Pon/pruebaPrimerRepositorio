@@ -1,2 +1,2 @@
 # pruebaPrimerRepositorio
-El primer ropistorio que hice en mi vida :D.
+El primer ropisitorio que hice en mi vida :D.
